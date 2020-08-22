@@ -1,9 +1,5 @@
 ### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
 
-![Pink and Red Beauty Influencer Asymmetrical Overlays Facebook Cover](https://user-images.githubusercontent.com/70024755/90948132-6555cf00-e3f0-11ea-8fca-9a3bd5c28a1f.png)
-
-
-
 ## Get to know me: 
 - 💁‍♀️ I'm a female developer and mentor in the tech industry. #womenintech
 - 💻 I have fullstack training but consider myself a front end developer with a passion for JavaScript and React. 
