@@ -1,6 +1,7 @@
 ### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
 
-![Screen Shot 2020-08-21 at 8 47 10 PM](https://user-images.githubusercontent.com/70024755/90948049-adc0bd00-e3ef-11ea-95da-41c7bfbeff86.png)
+![Pink and Red Beauty Influencer Asymmetrical Overlays Facebook Cover](https://user-images.githubusercontent.com/70024755/90948132-6555cf00-e3f0-11ea-8fca-9a3bd5c28a1f.png)
+
 
 
 ## Get to know me: 
