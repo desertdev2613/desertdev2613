@@ -1,6 +1,6 @@
 ### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
 
-![Brittney Olivia](https://user-images.githubusercontent.com/43420527/90343878-62f70d80-dfc9-11ea-8112-9c46f9729e37.jpg)
+![Screen Shot 2020-08-21 at 8 47 10 PM](https://user-images.githubusercontent.com/70024755/90948049-adc0bd00-e3ef-11ea-95da-41c7bfbeff86.png)
 
 
 ## Get to know me: 
