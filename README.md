@@ -1,12 +1,12 @@
 ### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
 
 ## Get to know me: 
-- ✖️ I'm a female developer and mentor in the tech industry. #womenintech
-- ✖️ I have fullstack training but consider myself a front end developer with a passion for JavaScript and React. 
-- ✖️ I'm continuously learning. If you're not learning you're not growing. 
-- ✖️ I'm looking to collaborate with other developers and content creators. 
-- ✖️ I'm an advocate for mental health. 
-- ✖️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
+-  I'm a female developer and mentor in the tech industry. #womenintech
+-  I have fullstack training but consider myself a front end developer with a passion for JavaScript and React. 
+-  I'm continuously learning. If you're not learning you're not growing. 
+-  I'm looking to collaborate with other developers and content creators. 
+-  I'm an advocate for mental health. 
+-  Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
 
 ## Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/brittney-stuart/)
