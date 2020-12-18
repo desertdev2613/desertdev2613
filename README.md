@@ -1,4 +1,6 @@
-### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
+# Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
+
+![BRITTNEY IN BETA](https://user-images.githubusercontent.com/70024755/102660447-49610080-4138-11eb-866a-447ed873b528.png)
 
 ## Get to know me: 
 -  I'm a female developer and mentor in the tech industry. #womenintech
