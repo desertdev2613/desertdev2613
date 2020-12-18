@@ -22,9 +22,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br/>
+<br/>
+<hr/>
 
 ## Connect with me: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Brittney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brittney-stuart/)](https://www.linkedin.com/in/brittney-stuart/)
 [![Instagram Badge](https://img.shields.io/badge/-Insta-hotpink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brittney.in.beta/)](https://www.instagram.com/brittney.in.beta/)
 
