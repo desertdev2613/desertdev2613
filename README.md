@@ -10,12 +10,10 @@
 -  I'm an advocate for mental health. 
 -  Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
 
+
 ## Connect with me: 
-- [LinkedIn](https://www.linkedin.com/in/brittney-stuart/)
-- [Instagram](https://www.instagram.com/brittney.in.beta/)
-
-![](https://media.giphy.com/media/EqChWeFyKs74qOOjTO/giphy.gif)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Brittney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brittney-stuart/)](https://www.linkedin.com/in/brittney-stuart/)
+[![Instagram Badge](https://img.shields.io/badge/-Insta-hotpink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brittney.in.beta/)](https://www.instagram.com/brittney.in.beta/)
 
 ## Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
